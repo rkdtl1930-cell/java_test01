@@ -12,7 +12,6 @@ public class CircleEx2 {
 		for(int i=0; i<c.length; i++) {
 			System.out.println("c["+i+"]의 면적은"+c[i].getArea());
 		}
-		System.out.println();
 	}
 
 }
